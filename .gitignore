@@ -1,0 +1,15 @@
+# OS, ENV variables, IDE
+.env
+.vscode
+.DS_Store
+
+# Directories
+coverage/
+dist/
+node_modules/
+.cache
+.eslintcache
+.npm
+
+# Files
+*.log*
